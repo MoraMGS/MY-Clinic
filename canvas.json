@@ -1,0 +1,48 @@
+{
+  "artboards": [
+    {
+      "file": "Main.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1360,
+      "h": 6400,
+      "title": "Nutrition & Heart website",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "Resistance.dc.html",
+      "x": 1480,
+      "y": 0,
+      "w": 1360,
+      "h": 4800,
+      "title": "Resistance exercises",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "Arabic.dc.html",
+      "x": 0,
+      "y": 6520,
+      "w": 1360,
+      "h": 7000,
+      "title": "Arabic: Nutrition & Heart",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "Resistance-ar.dc.html",
+      "x": 1480,
+      "y": 6520,
+      "w": 1360,
+      "h": 4900,
+      "title": "Arabic: Resistance exercises",
+      "expand": "fill",
+      "is_interactive": true
+    }
+  ],
+  "launch": {
+    "view": "focused",
+    "file": "Main.dc.html"
+  }
+}
